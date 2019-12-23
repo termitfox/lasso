@@ -1,0 +1,21 @@
+\\edu.tversu.net\dfs-root\users\folders\yasadomskaya\my documents\visual studio 2013\Projects\wim\wim\bin\Debug\wim.exe.config
+C:\Users\Пользователь\Desktop\ЯНА\уч\wim\wim\bin\Debug\wim.exe.config
+C:\Users\Пользователь\Desktop\ЯНА\уч\wim\wim\bin\Debug\wim.exe
+C:\Users\Пользователь\Desktop\ЯНА\уч\wim\wim\bin\Debug\wim.pdb
+C:\Users\Пользователь\Desktop\ЯНА\уч\wim\wim\obj\Debug\wim.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ЯНА\уч\wim\wim\obj\Debug\wim.Form1.resources
+C:\Users\Пользователь\Desktop\ЯНА\уч\wim\wim\obj\Debug\wim.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\ЯНА\уч\wim\wim\obj\Debug\wim.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\ЯНА\уч\wim\wim\obj\Debug\wim.exe
+C:\Users\Пользователь\Desktop\ЯНА\уч\wim\wim\obj\Debug\wim.pdb
+E:\wim\wim\bin\Debug\wim.exe.config
+E:\wim\wim\obj\Debug\wim.exe
+E:\wim\wim\obj\Debug\wim.pdb
+\\edu.tversu.net\dfs-root\Users\Folders\yasadomskaya\Desktop\wim\wim\bin\Debug\wim.exe.config
+\\edu.tversu.net\dfs-root\Users\Folders\yasadomskaya\Desktop\wim\wim\obj\Debug\wim.exe
+\\edu.tversu.net\dfs-root\Users\Folders\yasadomskaya\Desktop\wim\wim\obj\Debug\wim.pdb
+\\edu.tversu.net\dfs-root\Users\Folders\yasadomskaya\Desktop\wim\wim\obj\Debug\wim.Form1.resources
+\\edu.tversu.net\dfs-root\Users\Folders\yasadomskaya\Desktop\wim\wim\obj\Debug\wim.Properties.Resources.resources
+\\edu.tversu.net\dfs-root\Users\Folders\yasadomskaya\Desktop\wim\wim\obj\Debug\wim.csproj.GenerateResource.Cache
+\\edu.tversu.net\dfs-root\Users\Folders\yasadomskaya\Desktop\wim\wim\bin\Debug\wim.exe
+\\edu.tversu.net\dfs-root\Users\Folders\yasadomskaya\Desktop\wim\wim\bin\Debug\wim.pdb
